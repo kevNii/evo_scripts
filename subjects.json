@@ -1,0 +1,552 @@
+{
+  "javaviewcontrol": {
+    "path": "SF110/33_javaviewcontrol/",
+    "classes": [
+      "com.pmdesigns.jvc.tools.TokenMgrError",
+      "com.pmdesigns.jvc.tools.JVCParser",
+      "com.pmdesigns.jvc.tools.JVCParserTokenManager"
+    ]
+  },
+  "trans-locator": {
+    "path": "SF110/98_trans-locator/",
+    "classes": [
+      "Joshua.FoxHunt.FoxHuntFrame",
+      "Joshua.FoxHunt.HuntDisplay"
+    ]
+  },
+  "corina": {
+    "path": "SF110/35_corina/",
+    "classes": [
+      "corina.formats.TucsonSimple"
+    ]
+  },
+  "templateit": {
+    "path": "SF110/5_templateit/",
+    "classes": [
+      "org.templateit.Region"
+    ]
+  },
+  "ifx-framework": {
+    "path": "SF110/84_ifx-framework/",
+    "classes": [
+      "org.sourceforge.ifx.basetypes.IFXObject"
+    ]
+  },
+  "gfarcegestionfa": {
+    "path": "SF110/8_gfarcegestionfa/",
+    "classes": [
+      "fr.unice.gfarce.interGraph.ModifTableStockage"
+    ]
+  },
+  "celwars2009": {
+    "path": "SF110/95_celwars2009/",
+    "classes": [
+      "MP3",
+      "Client"
+    ]
+  },
+  "petsoar": {
+    "path": "SF110/37_petsoar/",
+    "classes": [
+      "org.petsoar.order.CreditCardInfo"
+    ]
+  },
+  "jtailgui": {
+    "path": "SF110/64_jtailgui/",
+    "classes": [
+      "fr.pingtimeout.jtail.gui.action.IndexFileAction",
+      "fr.pingtimeout.jtail.gui.view.JTailPanel"
+    ]
+  },
+  "schemaspy": {
+    "path": "SF110/36_schemaspy/",
+    "classes": [
+      "net.sourceforge.schemaspy.model.xml.TableMeta"
+    ]
+  },
+  "lotus": {
+    "path": "SF110/45_lotus/",
+    "classes": [
+      "lotus.core.phases.Phase",
+      "lotus.core.Game"
+    ]
+  },
+  "quickserver": {
+    "path": "SF110/93_quickserver/",
+    "classes": [
+      "org.quickserver.util.xmlreader.QuickServerConfig",
+      "org.quickserver.net.client.monitoring.HostMonitoringService"
+    ]
+  },
+  "jopenchart": {
+    "path": "SF110/88_jopenchart/",
+    "classes": [
+      "de.progra.charting.DefaultChart",
+      "de.progra.charting.CoordSystemUtilities"
+    ]
+  },
+  "follow": {
+    "path": "SF110/41_follow/",
+    "classes": [
+      "ghm.follow.gui.TabbedPane",
+      "ghm.follow.search.SearchableTextPane"
+    ]
+  },
+  "rif": {
+    "path": "SF110/4_rif/",
+    "classes": [
+      "com.densebrain.rif.server.transport.WebServiceDescriptor"
+    ]
+  },
+  "summa": {
+    "path": "SF110/44_summa/",
+    "classes": [
+      "org.apache.lucene.search.exposed.compare.NamedCollatorComparator"
+    ]
+  },
+  "hft-bomberman": {
+    "path": "SF110/57_hft-bomberman/",
+    "classes": [
+      "client.network.ForwardingObserver"
+    ]
+  },
+  "javathena": {
+    "path": "SF110/81_javathena/",
+    "classes": [
+      "org.javathena.login.parse.FromClient",
+      "org.javathena.login.Login"
+    ]
+  },
+  "fixsuite": {
+    "path": "SF110/74_fixsuite/",
+    "classes": [
+      "org.fixsuite.message.Library",
+      "org.fixsuite.message.view.TreeView"
+    ]
+  },
+  "classviewer": {
+    "path": "SF110/91_classviewer/",
+    "classes": [
+      "com.jstevh.viewer.ClassViewer",
+      "com.jstevh.viewer.SAXDirParser",
+      "com.jstevh.viewer.ClassInfo"
+    ]
+  },
+  "jgaap": {
+    "path": "SF110/100_jgaap/",
+    "classes": [
+      "jgaapGUI"
+    ]
+  },
+  "lilith": {
+    "path": "SF110/43_lilith/",
+    "classes": [
+      "de.huxhorn.lilith.data.access.AccessEvent"
+    ]
+  },
+  "jmca": {
+    "path": "SF110/19_jmca/",
+    "classes": [
+      "com.soops.CEN4010.JMCA.JParser.JavaCharStream",
+      "com.soops.CEN4010.JMCA.JParser.JavaParserTokenManager",
+      "com.soops.CEN4010.JMCA.JMCAAnalyzer"
+    ]
+  },
+  "openjms": {
+    "path": "SF110/66_openjms/",
+    "classes": [
+      "org.exolab.jms.net.socket.SocketRequestInfo"
+    ]
+  },
+  "jiprof": {
+    "path": "SF110/51_jiprof/",
+    "classes": [
+      "org.objectweb.asm.jip.commons.LocalVariablesSorter",
+      "org.objectweb.asm.jip.MethodWriter",
+      "org.objectweb.asm.jip.ClassReader"
+    ]
+  },
+  "gsftp": {
+    "path": "SF110/65_gsftp/",
+    "classes": [
+      "com.gotoservers.ftp.FtpApplet",
+      "mindbright.ssh.SSHSCPGUIThread"
+    ]
+  },
+  "dcparseargs": {
+    "path": "SF110/90_dcparseargs/",
+    "classes": [
+      "de.devcity.parseargs.ArgsParser"
+    ]
+  },
+  "resources4j": {
+    "path": "SF110/48_resources4j/",
+    "classes": [
+      "com.mytdev.resources4j.impl.AbstractResources"
+    ]
+  },
+  "jsecurity": {
+    "path": "SF110/18_jsecurity/",
+    "classes": [
+      "org.jsecurity.util.AntPathMatcher"
+    ]
+  },
+  "saxpath": {
+    "path": "SF110/24_saxpath/",
+    "classes": [
+      "org.saxpath.Axis",
+      "com.werken.saxpath.XPathLexer"
+    ]
+  },
+  "noen": {
+    "path": "SF110/61_noen/",
+    "classes": [
+      "fi.vtt.noen.testgen.observations.formatter.DaikonFormatter",
+      "fi.vtt.noen.mfw.bundle.probe.shared.ProbeInformation"
+    ]
+  },
+  "weka": {
+    "path": "SF110/107_weka/",
+    "classes": [
+      "weka.core.Memory",
+      "weka.core.FindWithCapabilities"
+    ]
+  },
+  "jiggler": {
+    "path": "SF110/89_jiggler/",
+    "classes": [
+      "jigl.image.ops.Shift",
+      "jigl.image.ops.ConnectedComponents",
+      "jigl.image.levelSetTool.LevelSetNudge"
+    ]
+  },
+  "biff": {
+    "path": "SF110/50_biff/",
+    "classes": [
+      "Scanner"
+    ]
+  },
+  "apbsmem": {
+    "path": "SF110/29_apbsmem/",
+    "classes": [
+      "apbs_mem_gui.Main",
+      "jahuwaldt.plot.PlotAxis"
+    ]
+  },
+  "jwbf": {
+    "path": "SF110/23_jwbf/",
+    "classes": [
+      "net.sourceforge.jwbf.mediawiki.actions.queries.TemplateUserTitles"
+    ]
+  },
+  "imsmart": {
+    "path": "SF110/11_imsmart/",
+    "classes": [
+      "com.imsmart.servlet.HTMLFilter"
+    ]
+  },
+  "battlecry": {
+    "path": "SF110/72_battlecry/",
+    "classes": [
+      "bcry.bcGenerator",
+      "bcry.battlecryGUI"
+    ]
+  },
+  "a4j": {
+    "path": "SF110/2_a4j/",
+    "classes": [
+      "net.kencochrane.a4j.DAO.Product",
+      "net.kencochrane.a4j.file.FileUtil"
+    ]
+  },
+  "biblestudy": {
+    "path": "SF110/68_biblestudy/",
+    "classes": [
+      "bible.util.Queue"
+    ]
+  },
+  "byuic": {
+    "path": "SF110/22_byuic/",
+    "classes": [
+      "com.yahoo.platform.yui.compressor.ScriptOrFnScope",
+      "com.yahoo.platform.yui.compressor.JavaScriptCompressor"
+    ]
+  },
+  "wheelwebtool": {
+    "path": "SF110/80_wheelwebtool/",
+    "classes": [
+      "wheel.util.DynamicSelectModel",
+      "wheel.asm.FieldWriter",
+      "wheel.asm.ClassReader",
+      "wheel.asm.ClassWriter"
+    ]
+  },
+  "shop": {
+    "path": "SF110/85_shop/",
+    "classes": [
+      "umd.cs.shop.JSState",
+      "umd.cs.shop.JSPredicateForm",
+      "umd.cs.shop.JSTerm",
+      "umd.cs.shop.JSJshop"
+    ]
+  },
+  "ext4j": {
+    "path": "SF110/71_ext4j/",
+    "classes": [
+      "net.sourceforge.ext4j.taglib.bo.Request"
+    ]
+  },
+  "io-project": {
+    "path": "SF110/77_io-project/",
+    "classes": [
+      "ioproject.server.network.ClientGroup"
+    ]
+  },
+  "pdfsam": {
+    "path": "SF110/109_pdfsam/",
+    "classes": [
+      "jcmdline.HelpCmdLineHandler"
+    ]
+  },
+  "jclo": {
+    "path": "SF110/94_jclo/",
+    "classes": [
+      "edu.mscd.cs.jclo.JCLO"
+    ]
+  },
+  "jaw-br": {
+    "path": "SF110/87_jaw-br/",
+    "classes": [
+      "jaw.entrada.Salvar",
+      "jaw.entrada.Abrir"
+    ]
+  },
+  "feudalismgame": {
+    "path": "SF110/97_feudalismgame/",
+    "classes": [
+      "src.VassalRebellion",
+      "src.Purchase",
+      "src.Battle"
+    ]
+  },
+  "diffi": {
+    "path": "SF110/39_diffi/",
+    "classes": [
+      "de.beiri22.stringincrementor.helper.IndexedString",
+      "de.beiri22.stringincrementor.StringIncrementor"
+    ]
+  },
+  "db-everywhere": {
+    "path": "SF110/54_db-everywhere/",
+    "classes": [
+      "com.gbshape.dbe.sapdb.SapdbTableList"
+    ]
+  },
+  "twfbplayer": {
+    "path": "SF110/79_twfbplayer/",
+    "classes": [
+      "de.outstare.fortbattleplayer.statistics.BattleStatistics",
+      "de.outstare.fortbattleplayer.model.impl.SimpleSector"
+    ]
+  },
+  "dsachat": {
+    "path": "SF110/12_dsachat/",
+    "classes": [
+      "dsachat.server.Handler"
+    ]
+  },
+  "geo-google": {
+    "path": "SF110/21_geo-google/",
+    "classes": [
+      "geo.google.datamodel.GeoStatusCode",
+      "geo.google.mapping.AddressToUsAddressFunctor"
+    ]
+  },
+  "nutzenportfolio": {
+    "path": "SF110/46_nutzenportfolio/",
+    "classes": [
+      "ch.bfh.egov.nutzenportfolio.service.fragebogen.NaOpNuDaoService"
+    ]
+  },
+  "squirrel-sql": {
+    "path": "SF110/102_squirrel-sql/",
+    "classes": [
+      "net.sourceforge.squirrel_sql.fw.gui.CascadeInternalFramePositioner"
+    ]
+  },
+  "fim1": {
+    "path": "SF110/73_fim1/",
+    "classes": [
+      "osa.ora.server.admin.ui.UpdateUserPanel",
+      "osa.ora.server.client.ui.utils.FontChooserDialog"
+    ]
+  },
+  "jcvi-javacommon": {
+    "path": "SF110/92_jcvi-javacommon/",
+    "classes": [
+      "org.jcvi.jillion.assembly.consed.phd.DefaultPhdReadTag",
+      "org.jcvi.jillion.assembly.ca.frg.Distance"
+    ]
+  },
+  "liferay": {
+    "path": "SF110/108_liferay/",
+    "classes": [
+      "com.liferay.portal.kernel.servlet.filters.invoker.FilterMapping",
+      "com.liferay.portlet.documentlibrary.model.DLSyncWrapper"
+    ]
+  },
+  "diebierse": {
+    "path": "SF110/49_diebierse/",
+    "classes": [
+      "bierse.controller.DefaultSettingsController"
+    ]
+  },
+  "httpanalyzer": {
+    "path": "SF110/32_httpanalyzer/",
+    "classes": [
+      "httpanalyzer.Password"
+    ]
+  },
+  "at-robots2-j": {
+    "path": "SF110/86_at-robots2-j/",
+    "classes": [
+      "net.virtualinfinity.atrobots.gui.renderers.RobotRenderer",
+      "net.virtualinfinity.atrobots.robot.Robot"
+    ]
+  },
+  "openhre": {
+    "path": "SF110/75_openhre/",
+    "classes": [
+      "com.browsersoft.openhre.hl7.impl.regular.ExpressionImpl"
+    ]
+  },
+  "sfmis": {
+    "path": "SF110/7_sfmis/",
+    "classes": [
+      "com.hf.sfm.crypt.Base64"
+    ]
+  },
+  "caloriecount": {
+    "path": "SF110/78_caloriecount/",
+    "classes": [
+      "com.lts.event.SimpleKeyListenerHelper",
+      "com.lts.swing.combobox.SimpleComboBox",
+      "com.lts.io.DirectoryScanner"
+    ]
+  },
+  "jipa": {
+    "path": "SF110/26_jipa/",
+    "classes": [
+      "jipa.Main",
+      "jipa.Variable"
+    ]
+  },
+  "sugar": {
+    "path": "SF110/60_sugar/",
+    "classes": [
+      "net.sf.sugar.fspath.FSPathResult",
+      "net.sf.sugar.fspath.cli.FSPathExplorer"
+    ]
+  },
+  "xbus": {
+    "path": "SF110/83_xbus/",
+    "classes": [
+      "net.sf.xbus.base.core.MessageHandler",
+      "net.sf.xbus.base.core.reflection.XBUSClassLoader"
+    ]
+  },
+  "dvd-homevideo": {
+    "path": "SF110/47_dvd-homevideo/",
+    "classes": [
+      "Capture",
+      "Convert",
+      "Menu"
+    ]
+  },
+  "omjstate": {
+    "path": "SF110/14_omjstate/",
+    "classes": [
+      "uk.me.jockmacmad.jstate.state.Transition"
+    ]
+  },
+  "ipcalculator": {
+    "path": "SF110/82_ipcalculator/",
+    "classes": [
+      "ipac.BinaryCalculate",
+      "ipac.WhoIS"
+    ]
+  },
+  "tullibee": {
+    "path": "SF110/1_tullibee/",
+    "classes": [
+      "com.ib.client.ExecutionFilter",
+      "com.ib.client.ComboLeg"
+    ]
+  },
+  "xisemele": {
+    "path": "SF110/31_xisemele/",
+    "classes": [
+      "net.sf.xisemele.impl.OperationsHelperImpl"
+    ]
+  },
+  "beanbin": {
+    "path": "SF110/15_beanbin/",
+    "classes": [
+      "net.sourceforge.beanbin.reflect.MethodReflectionCriteria",
+      "net.sourceforge.beanbin.reflect.ReflectionSearch"
+    ]
+  },
+  "newzgrabber": {
+    "path": "SF110/99_newzgrabber/",
+    "classes": [
+      "Newzgrabber.BatchDriver"
+    ]
+  },
+  "heal": {
+    "path": "SF110/96_heal/",
+    "classes": [
+      "org.heal.util.InterfaceUtilitiesBean"
+    ]
+  },
+  "inspirento": {
+    "path": "SF110/17_inspirento/",
+    "classes": [
+      "com.allenstudio.ir.util.XmlElement",
+      "com.allenstudio.ir.ui.MainMenu"
+    ]
+  },
+  "firebird": {
+    "path": "SF110/110_firebird/",
+    "classes": [
+      "org.firebirdsql.gds.impl.wire.AbstractJavaGDSImpl",
+      "org.firebirdsql.jdbc.FBProcedureCall",
+      "org.firebirdsql.encodings.EncodingFactory"
+    ]
+  },
+  "fps370": {
+    "path": "SF110/58_fps370/",
+    "classes": [
+      "teder.TederFrame"
+    ]
+  },
+  "lavalamp": {
+    "path": "SF110/55_lavalamp/",
+    "classes": [
+      "net.sf.lavalamp.device.TimeOfDay"
+    ]
+  },
+  "javex": {
+    "path": "subjects/",
+    "classes": [
+      "org.javex.Expression"
+    ]
+  },
+  "tartarus": {
+    "path": "subjects/",
+    "classes": [
+      "org.tartarus.snowball.ext.turkishStemmer",
+      "org.tartarus.snowball.ext.italianStemmer",
+      "org.tartarus.snowball.ext.englishStemmer"
+    ]
+  }
+}
