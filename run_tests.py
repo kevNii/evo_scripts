@@ -9,6 +9,7 @@ LOGFILE = "./evo_output.log"
 TIMESTAT_FILE = "./times.csv"
 SEARCH_BUDGET = 60 * 5
 ITERATIONS = 10
+ALGORITHMS = ["DynaMOSA", "PRDynaMOSA"] # can also add "NCPRDynaMOSA"
 
 projects = {}
 with open(TEST_SUBJECT_FILE) as subject_file:
@@ -18,7 +19,7 @@ with open(TEST_SUBJECT_FILE) as subject_file:
 		classes += len(projects[project]["classes"])
 	print("Read {} projects with a total of {} classes loaded from file.".format(len(projects.keys()), classes))
 
-algorithms = ["DynaMOSA", "PRDynaMOSA"] # can also add "NCPRDynaMOSA"
+
 now = datetime.datetime.now()
 filepath = "./testruns/{}".format(now.strftime("%Y-%m-%d_%H-%M"))
 
@@ -29,7 +30,7 @@ with open("{}/{}".format(filepath, TIMESTAT_FILE), "a") as timefile:
 
 for i in range(0,ITERATIONS):
 	for project in projects:
-		for algo in algorithms:
+		for algo in ALGORITHMS:
 			for clas in projects[project]["classes"]:
 				print("#{} - Running {} on Project {} class {}...".format(i, algo, project, clas), flush=True)
 				with open("{}/{}".format(filepath, LOGFILE), "a") as logfile:
