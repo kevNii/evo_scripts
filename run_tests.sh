@@ -1,5 +1,5 @@
 #!/bin/bash
-read -p "Delete existing statistics.csv? (y/n)" -n 1 -r
+read -p "Delete existing statistics.csv? (y/N)" -n 1 -r
 echo    # (optional) move to a new line
 if [[ $REPLY =~ ^[Yy]$ ]]
 then
